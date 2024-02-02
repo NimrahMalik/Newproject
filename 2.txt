@@ -1,1 +1,2 @@
-this is my 2.txt file
+i have changed the commit now
+added commit
