@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is not my 1.txt file witth different commits
+=======
+this is not my 1.txt file
+>>>>>>> cc280e7 (added files in new branch)
