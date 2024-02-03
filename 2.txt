@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is my 2.txt file
+=======
+added recent commit
+>>>>>>> 30b48fc (next one)
